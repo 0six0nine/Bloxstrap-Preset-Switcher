@@ -7,7 +7,7 @@
 <hr>
 
 > [!TIP]
-> - Run `main.py` first ***BEFORE*** running from the shortcut; the script will fix the otherwise wrong target location.
+> - Run `main.py` first ***BEFORE*** running from the shortcut; the script will fix its otherwise wrong target location.
 
 ## Overview
 
