@@ -9,13 +9,12 @@
 > [!TIP]
 > - Run `main.py` first ***BEFORE*** running from the shortcut; the script will fix its otherwise wrong target location.
 
-
 ## Overview
 An easy solution for people who change ROBLOX FFlags regularly, whether it be for testing purposes, or simply for a slight advantage in some games. This script streamlines the otherwise grueling process of opening Bloxstrap, clearing/editing/pasting in FFlags (in my case, it was copying from text files) into just a few button presses.
 
 ---
 
-## Prerequisites/Installation
+## ⬇️ Prerequisites/Installation ⬇️
 
 ## Bloxstrap
 Install Bloxstrap by clicking [**here**](https://github.com/bloxstraplabs/bloxstrap/)
