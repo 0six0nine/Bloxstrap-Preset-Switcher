@@ -16,7 +16,7 @@ An easy solution for people who change ROBLOX FFlags regularly, whether it be fo
 
 ## ⬇️ Prerequisites/Installation ⬇️
 
-## Bloxstrap
+### Bloxstrap
 Install Bloxstrap by clicking [**here**](https://github.com/bloxstraplabs/bloxstrap/)
 
 ### Python
@@ -28,7 +28,6 @@ Run the batch file named `requirements.bat`; this should install everything need
 ## Features
 This script saves a maximum of 3 backups in the same location as `ClientAppSettings.json` in the following format:
 `ClientAppSettings_YEARMONTHDAY-HOURMINUTESECOND.json.old`
-
 > [!NOTE]
 Do note that this deletes the oldest backup when there are already 3 existing ones, so be mindful of that!
 
