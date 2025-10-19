@@ -31,11 +31,11 @@ This script saves a maximum of 3 backups in the same location as `ClientAppSetti
 `ClientAppSettings_YEARMONTHDAY-HOURMINUTESECOND.json.old`
 
 > [!NOTE]
-Do note that this deletes the oldest backup when there are already 3 existing ones!
+Do note that this deletes the oldest backup when there are already 3 existing ones, so be mindful of that!
 
 ## Usage
 When running the script, you should be able to see something similar to the image below: 
-<img width="960" height="480" alt="image" src="https://github.com/user-attachments/assets/dba47017-1120-4f4a-a8ee-1513cdb49900" />
+<img width="600" height="100" alt="image" src="https://github.com/user-attachments/assets/1ca7464a-4153-4d46-82af-bf2d730b68bf" />
 
 You can then enter a number up to the amount of detected JSON files, and launch ROBLOX with those settings applied.
 You can add as many presets as you want, inside the `Presets` folder.
