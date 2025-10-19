@@ -34,6 +34,7 @@ Do note that this deletes the oldest backup when there are already 3 existing on
 ## Usage
 After installing, extract the ZIP file and run `Bloxstrap Preset Switcher.py`.
 When running the script, you should be able to see something similar to the image below: 
+
 <img width="768" height="140" alt="image" src="https://github.com/user-attachments/assets/1ca7464a-4153-4d46-82af-bf2d730b68bf"/>
 
 You can then enter any number up to the amount of detected JSON files, and launch ROBLOX with those settings applied.
