@@ -28,7 +28,8 @@ Run the batch file named `requirements.bat`; this should install everything need
 
 ## Features
 This script saves a maximum of 3 backups in the same location as `ClientAppSettings.json` in the following format:
-> - `ClientAppSettings_YEARMONTHDAY-HOURMINUTESECOND.json.old`
+`ClientAppSettings_YEARMONTHDAY-HOURMINUTESECOND.json.old`
+
 > [!NOTE]
 Do note that this deletes the oldest backup when there are already 3 existing ones!
 
