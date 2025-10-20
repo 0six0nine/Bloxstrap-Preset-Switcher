@@ -25,7 +25,7 @@ Install the latest version of Python by clicking [**here**](https://www.python.o
 - `.json` files inside the preset folder will automatically be copied into a directory in `%USERPROFILE%\AppData\Local` with the name `BloxstrapPresetSwitcher`. New files put into the `Presets` folder will automatically be copied to the directory the next time the program is run
 - This script saves a maximum of 3 backups in the same location as `ClientAppSettings.json` in the following format: `ClientAppSettings_YEARMONTHDAY-HOURMINUTESECOND.json.old`
 > [!NOTE]
-  Do note that this deletes the oldest backup when there are already 3 existing ones, so be mindful of that!
+  This script will delete the oldest backup when 3 are already made, so be careful!
 
 ## Usage
 After installing, extract the ZIP file and run `BloxstrapPresetSwitcher.exe`.
