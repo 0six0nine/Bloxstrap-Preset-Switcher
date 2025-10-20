@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/0six0nine/Bloxstrap-Preset-Switcher/blob/main/BPS_icon.png" alt="Bloxstrap Preset Manager Logo"></p>
+<h1 align="center"><img src="BPS_icon.png" alt="Bloxstrap Preset Manager Logo"></p>
 
 <h1 align="center">🔁 BLOXSTRAP PRESET SWITCHER 🔁</h1>
 
