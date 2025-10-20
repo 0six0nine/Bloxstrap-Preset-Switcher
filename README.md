@@ -1,20 +1,20 @@
 <h1 align="center"><img src="https://github.com/0six0nine/Bloxstrap-Preset-Switcher/blob/main/BPS_icon.png" alt="Bloxstrap Preset Manager Logo"></p>
 
-<h1 align="center">🔁 ROBLOX FFLAG PRESET SWITCHER 🔁</h1>
+<h1 align="center">🔁 BLOXSTRAP PRESET SWITCHER 🔁</h1>
 
-<p align="center">A command-line Python script that allows you to change ROBLOX FFlags in the form of presets conveniently!</p>
+<p align="center">A command-line Python script that allows you to change Bloxstrap FFlags in the form of presets conveniently!</p>
 
 <hr>
 
 ## Overview
-A convenient solution for people who change ROBLOX FFlags regularly; aimed towards developers or people on low-end machines who want a performance boost on games. This script streamlines the otherwise grueling process of opening a ROBLOX bootstrapper like Bloxstrap or Voidstrap, going into the FFlag editor, deleting 7 pasting in JSON entries and saving into just a few button presses.
+An easy solution for people who change ROBLOX FFlags regularly; this is mainly for developers who want to experiment with the engine's beta features, or for people on lower-end devices who want a performance boost. This script streamlines the otherwise grueling process of opening Bloxstrap and clearing & pasting in JSON entries into just a few button presses.
 
 ---
 
 ## ⬇️ Prerequisites/Installation ⬇️
 
-### Bloxstrap/Voidstrap
-Install [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap/releases) or [Voidstrap](https://github.com/voidstrap/Voidstrap/releases)
+### Bloxstrap
+Install Bloxstrap by clicking [**here**](https://github.com/bloxstraplabs/bloxstrap/)
 
 ### Python
 Install the latest version of Python by clicking [**here**](https://www.python.org/downloads/)
