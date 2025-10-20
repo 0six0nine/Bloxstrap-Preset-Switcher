@@ -31,7 +31,7 @@ Install the latest version of Python by clicking [**here**](https://www.python.o
 After installing, extract the ZIP file and run `BloxstrapPresetSwitcher.exe`.
 When running the script, you should be able to see something similar to the image below: 
 
-<img width="768" height="140" alt="image" src="https://github.com/user-attachments/assets/1ca7464a-4153-4d46-82af-bf2d730b68bf"/>
+<img width="762" height="142" alt="hi" src="https://github.com/user-attachments/assets/720ded79-c9d4-47f8-a1d3-35cb71db7780" />
 
 You can then enter any number up to the amount of detected JSON files, and launch ROBLOX with those settings applied.
 You can add as many presets as you want; just place any `.json` file inside the `Presets` folder.
